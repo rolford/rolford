@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @rolford
-- 👀 I’m interested in becoming a web developer.
-- 🌱 I’m currently learning HTML, CSS, JS. I have learned some Python and CSS previously.
-- 💞️ I’m looking to collaborate on mentoring relationships.
-- 📫 How to reach me: rolford@gmail.com
+
